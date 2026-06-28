@@ -1,0 +1,8 @@
+{
+  "name": "Website PGRI Pasirwangi",
+  "description": "Website Resmi Cabang PGRI Kecamatan Pasirwangi dengan Landing Page dan Admin Panel (CMS) lengkap",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

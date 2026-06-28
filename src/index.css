@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+input, textarea, select {
+  color: #000000 !important;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
+}
+
+input:focus, textarea:focus, select:focus {
+  color: #000000 !important;
+}
